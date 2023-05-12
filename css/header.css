@@ -1,0 +1,13 @@
+.main-nav {
+    display: flex;
+    gap: 30px;
+}
+
+.link {
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+.link:hover {
+    text-decoration: underline;
+}
