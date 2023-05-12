@@ -10,6 +10,7 @@ body {
         sans-serif;
 }
 .container {
+    background-image: url("./img/hero_image.png");
     position: relative;
     text-align: center;
     color: black;
